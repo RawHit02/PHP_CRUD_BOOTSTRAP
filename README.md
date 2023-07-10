@@ -1,5 +1,10 @@
 # PHP_CRUD_BOOTSTRAP
-With localhost wamp server it will update
+With localhost wamp server it will update       
+Steps > Open The WAMP Server or XAMPP Server
+      > Open the Localhost
+      > Create a database in server
+      > when the wamp is online 
+      > Open it this will Make the User Database Safe 
 
 
 Open LocalHost8000 to see the result and WAMp Server 
